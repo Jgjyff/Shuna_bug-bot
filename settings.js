@@ -11,19 +11,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉Limule Solitarus"
-global.ytname = "YT: Deaethgun635"
+global.ownernomer = "242069283966"
+global.ownername = "senju hashirama"
+global.ytname = "hashirama"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉Limule Solitarus' //owner name
-global.botname = '💞𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓💞' //name of the bot
+global.ownernumber = '242069283966'  //creator number
+global.ownername = 'hashirama' //owner name
+global.botname = 'senju hashirama ' //name of the bot
 
 //sticker details
 global.packname = '🍭𝐒𝐞𝐱𝐲 𝐒𝐡𝐮𝐧𝐚-𝐛𝐨𝐭'
-global.author = '🐉Limule Solitarus'
+global.author = 'senju hashirama'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -38,11 +38,11 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
