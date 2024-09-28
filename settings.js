@@ -11,14 +11,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242069283966"
-global.ownername = "senju hashirama"
+global.ownernomer = "+244 956 100 349"
+global.ownername = "denzo UCHIWA"
 global.ytname = "hashirama"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '242069283966'  //creator number
-global.ownername = 'hashirama' //owner name
+global.ownernumber = '+244 956 100 349'  //creator number
+global.ownername = 'DENZO UCHIWA' //owner name
 global.botname = 'senju hashirama ' //name of the bot
 
 //sticker details
