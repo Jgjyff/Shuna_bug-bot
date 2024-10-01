@@ -11,14 +11,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "+244 956 100 349"
-global.ownername = "denzo UCHIWA"
+global.ownernomer = "+243983861046"
+global.ownername = "hashirama"
 global.ytname = "hashirama"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '+244 956 100 349'  //creator number
-global.ownername = 'DENZO UCHIWA' //owner name
+global.ownernumber = '+243983861046'  //creator number
+global.ownername = 'hashirama' //owner name
 global.botname = 'senju hashirama ' //name of the bot
 
 //sticker details
@@ -40,7 +40,7 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = false //auto update bio
+global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
